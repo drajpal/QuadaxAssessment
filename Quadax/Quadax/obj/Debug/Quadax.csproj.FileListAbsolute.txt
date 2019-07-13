@@ -1,0 +1,6 @@
+c:\users\dheeraj.palakurthi\documents\visual studio 2012\Projects\Quadax\Quadax\bin\Debug\Quadax.exe.config
+c:\users\dheeraj.palakurthi\documents\visual studio 2012\Projects\Quadax\Quadax\bin\Debug\Quadax.exe
+c:\users\dheeraj.palakurthi\documents\visual studio 2012\Projects\Quadax\Quadax\bin\Debug\Quadax.pdb
+c:\users\dheeraj.palakurthi\documents\visual studio 2012\Projects\Quadax\Quadax\obj\Debug\Quadax.csprojResolveAssemblyReference.cache
+c:\users\dheeraj.palakurthi\documents\visual studio 2012\Projects\Quadax\Quadax\obj\Debug\Quadax.exe
+c:\users\dheeraj.palakurthi\documents\visual studio 2012\Projects\Quadax\Quadax\obj\Debug\Quadax.pdb
